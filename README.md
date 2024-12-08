@@ -22,6 +22,12 @@ System will use names of props there to build persistance keys and menus. You ca
 When player finds enough treasures, "container" is enabled for everyone. You can put anything you want there: pickups, scripts, etc...
 Once prize is unlocked, it will be enabled every time player joins the world. 
 
+
+  <a href="https://github.com/HoshouNeko/TreasureHuntUdon">
+    <img alt="" height="400" src="./DOCS/install.png">
+  </a>
+
+  
 ## Demo World
 
 https://vrchat.com/home/world/wrld_6918bec7-0b2a-4541-bb3a-5638373bca7c
