@@ -1,0 +1,26 @@
+{
+  "Coin": {
+    "LastUpdated": "2024-12-08T09:42:39.6217912+02:00",
+    "Key": "Coin",
+    "Value": {
+      "type": "Int",
+      "value": 14
+    }
+  },
+  "Star": {
+    "LastUpdated": "2024-12-08T09:42:38.3933636+02:00",
+    "Key": "Star",
+    "Value": {
+      "type": "Int",
+      "value": 2
+    }
+  },
+  "Gem": {
+    "LastUpdated": "2024-12-08T09:42:38.7447482+02:00",
+    "Key": "Gem",
+    "Value": {
+      "type": "Int",
+      "value": 4
+    }
+  }
+}

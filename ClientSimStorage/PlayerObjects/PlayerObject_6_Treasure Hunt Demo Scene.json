@@ -1,0 +1,41 @@
+{
+	"600115": [
+		[
+			{
+				"_isElegibleForPrize": true
+			}
+		]
+	],
+	"600116": [
+		[
+			{
+				"Position": {
+					"T": "V3",
+					"x": 1.842,
+					"y": 0.737,
+					"z": 0.702
+				},
+				"Rotation": {
+					"T": "Q",
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"Velocity": {
+					"T": "V3",
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"IsKinematic": true,
+				"UseGravity": true,
+				"Discontinuity": "not available",
+				"DiscontinuityCounter": "not available",
+				"WasSleeping": true,
+				"Time": 22.67944,
+				"HeldInHand": "not available"
+			}
+		]
+	]
+}

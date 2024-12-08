@@ -1,0 +1,80 @@
+{
+	"100110": [
+		[
+			{
+				"_isElegibleForPrize": true
+			}
+		]
+	],
+	"100111": [
+		[
+			{
+				"Position": {
+					"x": 1.934021,
+					"y": 1.06641,
+					"z": 0.08790112,
+					"T": "V3"
+				},
+				"Rotation": {
+					"x": -0.05040107,
+					"y": 0.1647656,
+					"z": 0.02957022,
+					"w": 0.9846002,
+					"T": "Q"
+				},
+				"Velocity": {
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"T": "V3"
+				},
+				"IsKinematic": true,
+				"UseGravity": true,
+				"WasSleeping": true,
+				"Time": 184.5368,
+				"HeldInHand": "not available",
+				"Discontinuity": "not available",
+				"DiscontinuityCounter": "not available"
+			}
+		]
+	],
+	"100115": [
+		[
+			{
+				"_isElegibleForPrize": true
+			}
+		]
+	],
+	"100116": [
+		[
+			{
+				"Position": {
+					"x": 1.785476,
+					"y": 0.7625194,
+					"z": 0.7319999,
+					"T": "V3"
+				},
+				"Rotation": {
+					"x": -0.08698975,
+					"y": -0.0174939,
+					"z": 0.07881126,
+					"w": 0.9929329,
+					"T": "Q"
+				},
+				"Velocity": {
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"T": "V3"
+				},
+				"IsKinematic": true,
+				"UseGravity": true,
+				"WasSleeping": true,
+				"Time": 70.96794,
+				"HeldInHand": "not available",
+				"Discontinuity": "not available",
+				"DiscontinuityCounter": "not available"
+			}
+		]
+	]
+}
