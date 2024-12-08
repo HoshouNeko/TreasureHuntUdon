@@ -1,16 +1,18 @@
 <div align="center">
-  <a href="https://github.com/HoshouNeko/TreasureHuntUdon">
-    <img alt="" height="138" src="./DOCS/TreasureHuntDemo.gif">
-  </a>
   <p>Treasure Hunt Udon<br>
   persistance game for VRChat worlds</p>
+  <a href="https://github.com/HoshouNeko/TreasureHuntUdon">
+    <img alt="" height="400" src="./DOCS/TreasureHuntDemo.gif">
+  </a>
+
 </div>
 
 ## Installation
--  Download latest release: https://z3y.github.io/vpm-package-listing/
+-  Download latest release: https://github.com/HoshouNeko/TreasureHuntUdon/releases
 -  Import into your project
+-  Install TextMeshPro (unity should ask you after import)
 
-### - Setup
+###  Setup:
 - Drop "Treasure hunt" prefab into your scene
 - Open "Locations". Duplicate zones, position and scale to designate areas where treasures will be spawned. You can disable or delete mesh renderer after positioning. You do not have to enable colliders.
 Every time new treasure is spawned, system chooses random box, and random position inside it for spawn. You can increase spawn chances by making more boxes in same area.
@@ -26,8 +28,7 @@ https://vrchat.com/home/world/wrld_6918bec7-0b2a-4541-bb3a-5638373bca7c
 
 ## License
 
-Credit and tip if you can~
 [MIT](/LICENSE.md)
 
-
+Credit and tip if you can~
 #### [Ko-fi](https://ko-fi.com/hoshouneko) | [LinkTree](https://linktr.ee/hoshouneko) | [Discord](https://discord.gg/nXbGFqkQf8)
