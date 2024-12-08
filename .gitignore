@@ -75,3 +75,6 @@ crashlytics-build.properties
 # additional
 /[Pp]ackages/*
 /[Pp]ackages/*/*
+/[Tt]hry/*
+/[Cc]lientSimStorage/*
+/Thry/
